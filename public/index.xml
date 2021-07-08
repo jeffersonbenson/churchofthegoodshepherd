@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Church of the Good Shepherd</title>
+    <link>http://goodshepherdlynchburg.com/</link>
+    <description>Recent content on Church of the Good Shepherd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Mar 2021 20:53:57 -0500</lastBuildDate>
+    
+	<atom:link href="http://goodshepherdlynchburg.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://goodshepherdlynchburg.com/about/</link>
+      <pubDate>Fri, 12 Mar 2021 20:53:57 -0500</pubDate>
+      
+      <guid>http://goodshepherdlynchburg.com/about/</guid>
+      <description>Church of the Good Shepherd celebrates unity in the essential elements of Christian faith, worship, life and ministry. Like trees planted at the water’s edge, our Anglican roots are nourished by three streams: the Scripture, the Sacred and the Spirit.</description>
+    </item>
+    
+  </channel>
+</rss>
