@@ -42,7 +42,7 @@ unsafe = true
     weight = 1
 
   [[menu.main]]
-    name = "Leaders"
+    name = "Leadership"
     parent = "Who We Are"
     url = "/leaders"
     weight = 2
@@ -72,7 +72,7 @@ unsafe = true
   customCSS = ["example.css"]
 
   [params.banner]
-    image = "img/church3.jpg"
+    image = "img/church2.jpg"
 
 #  [params.style]
 #    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
