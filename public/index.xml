@@ -6,10 +6,19 @@
     <description>Recent content on Church of the Good Shepherd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jul 2021 20:13:35 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jul 2021 20:48:01 -0400</lastBuildDate>
     
 	<atom:link href="http://goodshepherdlynchburg.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>http://goodshepherdlynchburg.com/contact/</link>
+      <pubDate>Thu, 08 Jul 2021 20:48:01 -0400</pubDate>
+      
+      <guid>http://goodshepherdlynchburg.com/contact/</guid>
+      <description>Contact Us Email: churchofgoodshepherd@gmail.com Phone (Call or Text): (434) 221-3694</description>
+    </item>
     
     <item>
       <title>Leaders</title>
@@ -27,7 +36,8 @@ Mike and his wife Kelly have three wonderful boys: Jacob, Judah, and Elijah.</de
       <pubDate>Fri, 12 Mar 2021 20:56:21 -0500</pubDate>
       
       <guid>http://goodshepherdlynchburg.com/ministries/</guid>
-      <description>TESTING!!!</description>
+      <description>TESTING!!!
+Get Involved! Please Contact Us to learn more.</description>
     </item>
     
     <item>
