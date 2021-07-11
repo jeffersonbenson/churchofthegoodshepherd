@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Us"
 date: 2021-03-12T20:53:57-05:00
 draft: false
 ---
