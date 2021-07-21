@@ -53,9 +53,14 @@ unsafe = true
     weight = 3
 
   [[menu.main]]
+    name = "Donate"
+    url = "/donate"
+    weight = 4
+
+  [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 4
+    weight = 5
 
 # Paramaters for the whole site
 [params]
@@ -66,7 +71,7 @@ unsafe = true
   languageCode = "en" # For accessibility this needs to be set. You can find all language codes at https://www.w3schools.com/tags/ref_language_codes.asp
 
   bible_popups = "faithlife" #faithlife, blb
-  bible_version = "CSB" #HCSB, NIV, NLT, ESV, etc.
+  bible_version = "ESV" #HCSB, NIV, NLT, ESV, etc.
   instant_page = true
 
   customCSS = ["example.css"]
@@ -101,8 +106,8 @@ unsafe = true
     #If you use php, you need to host this site on a Server capable of running php.
     # Please edit the /static/contact_mail.php file from the exampleSite.
     service = "formspree"
-    confirm_page = "/contact_thanks"
-    # formspree_email=""
+    #confirm_page = "/contact_thanks" #only used by netlify
+    formspree_formid="xleawaqr"
 
 
     [params.footer]

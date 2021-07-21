@@ -49,7 +49,7 @@
 
 [feature_images]
 #These feature images look best if there's an even number of them.
-  enable = true
+  enable = false
 
   [[feature_images.tile]]
     image = "img/freely-10057.jpg"

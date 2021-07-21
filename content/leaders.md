@@ -13,4 +13,15 @@ Mike and his wife Kelly have three wonderful boys: Jacob, Judah, and Elijah.
 
 When he gets the chance, Mike enjoys playing guitar, watching good movies, and riding his bike when it’s not too cold!
 
-# More Leader Bios On The Way!
+# Vestry & Leadership Team
+
+| Name            	| Role                                 	| Contact                        	|
+|-----------------	|--------------------------------------	|--------------------------------	|
+| Mike Kunzinger  	| Senior Pastor                        	| bethecure@gmail.com            	|
+| Jeff Boatner    	| Senior Warden                        	| boatnerjeffrey@gmail.com       	|
+| Judith Benedict 	| Ministries of Prayer and the Word    	| judithbenedict@gmail.com       	|
+| Jeff Benson     	| Media Ministry                       	| jeffbensonis@gmail.com         	|
+| Tracey Grutz    	| Administrator/Secretary              	| churchofgoodshepherd@gmail.com 	|
+| Gareth Kerlin   	| Evening Prayer                       	| garethkerlin@gmail.com         	|
+| Other Leaders:  	|                                      	|                                	|
+| Josh Davies     	| Treasurer & Finance Committee Leader 	| jsdavies@liberty.edu           	|
