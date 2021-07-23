@@ -53,6 +53,11 @@ unsafe = true
     weight = 3
 
   [[menu.main]]
+    name = "Sermons"
+    url = "/sermons"
+    weight = 3
+
+  [[menu.main]]
     name = "Donate"
     url = "/donate"
     weight = 4

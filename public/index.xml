@@ -6,10 +6,19 @@
     <description>Recent content on Church of the Good Shepherd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jul 2021 20:47:46 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jul 2021 12:47:15 -0400</lastBuildDate>
     
 	<atom:link href="https://zealous-mushroom-0c00d610f.azurestaticapps.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sermons</title>
+      <link>https://zealous-mushroom-0c00d610f.azurestaticapps.net/sermons/</link>
+      <pubDate>Fri, 23 Jul 2021 12:47:15 -0400</pubDate>
+      
+      <guid>https://zealous-mushroom-0c00d610f.azurestaticapps.net/sermons/</guid>
+      <description>  </description>
+    </item>
     
     <item>
       <title>Donate</title>
@@ -48,17 +57,6 @@ Mike and his wife Kelly have three wonderful boys: Jacob, Judah, and Elijah.</de
       
       <guid>https://zealous-mushroom-0c00d610f.azurestaticapps.net/ministries/</guid>
       <description>Ministries at COGS    Ministry Leader Contact Email     COGS Administrator Tracey Grutz churchofgoodshepherd@gmail.com   Adult Education Paul McClure mcclure.paul@gmail.com   Altar Guild Matt Perez mattpinva@gmail.com   Children&amp;rsquo;s Education &amp;amp; Care Meredith Camilleri meredith0091@gmail.com   Evening Prayer  https://www.facebook.com/COGSLynchburg/   Facilities and Maintenance Candice Sampson csampson12@liberty.edu   Finance Committee Josh Davies jsdavies@liberty.edu   Hospitality/Greeters Cale &amp;amp; Faith Baker calebaker118@gmail.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://zealous-mushroom-0c00d610f.azurestaticapps.net/about/</link>
-      <pubDate>Fri, 12 Mar 2021 20:53:57 -0500</pubDate>
-      
-      <guid>https://zealous-mushroom-0c00d610f.azurestaticapps.net/about/</guid>
-      <description>We Are A Three Streams Church Church of the Good Shepherd in Lynchburg, Virginia is a Spirit-filled Anglican Church affiliated with the Anglican Church in North America (Diocese of the Mid-Atlantic).
-We celebrate unity in the essential elements of Christian faith, worship, life and ministry. Like trees planted at the water’s edge, our Anglican roots are nourished by three streams: the Scripture, the Sacred and the Spirit.
- We hold that Scripture guides our lives and is authoritative for us individually and for the Church at large.</description>
     </item>
     
   </channel>
