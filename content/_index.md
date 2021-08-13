@@ -12,7 +12,7 @@
 #Details for the box below the banner
 [services]
 #title = "Join Us For Worship!"
-  title = "August 13th, 2020: Join Us on Facebook for Morning Prayer"
+  title = "August 15th, 2020: Church building will be closed due to road construction. Join Us on Facebook for Morning Prayer"
 #text = "We meet on Sundays at 10:30am at [1105 Main Street Lynchburg, VA 24501](https://www.openstreetmap.org/way/319629804)."
   text = "[Stream Link](https://www.facebook.com/COGSLynchburg)"
 
