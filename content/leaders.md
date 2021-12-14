@@ -17,9 +17,9 @@ When he gets the chance, Mike enjoys playing guitar, watching good movies, and r
 
 | Name            	| Role                              	| Contact                        	|
 |-----------------	|-----------------------------------	|--------------------------------	|
-| Mike Kunzinger  	| Senior Pastor                     	| bethecure@gmail.com            	|
-| Jeff Boatner    	| Senior Warden                     	| boatnerjeffrey@gmail.com       	|
-| Judith Benedict 	| Ministries of Prayer and the Word 	| judithbenedict@gmail.com       	|
-| Jeff Benson     	| Media Ministry                    	| jeffbensonis@gmail.com         	|
-| Tracey Grutz    	| Administrator/Secretary           	| churchofgoodshepherd@gmail.com 	|
-| Gareth Kerlin   	| Evening Prayer                    	| garethkerlin@gmail.com         	|
+| Mike Kunzinger  	| Senior Pastor                     	| bethecure [at] gmail.com            	|
+| Jeff Boatner    	| Senior Warden                     	| boatnerjeffrey [at] gmail.com       	|
+| Judith Benedict 	| Ministries of Prayer and the Word 	| judithbenedict [at] gmail.com       	|
+| Jeff Benson     	| Media Ministry                    	| jeffbensonis [at] gmail.com         	|
+| Tracey Grutz    	| Administrator/Secretary           	| churchofgoodshepherd [at] gmail.com 	|
+| Gareth Kerlin   	| Evening Prayer                    	| garethkerlin [at] gmail.com         	|
