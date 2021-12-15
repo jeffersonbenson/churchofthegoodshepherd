@@ -8,20 +8,20 @@ draft: false
 
 | Ministry                         	| Leader                	| Contact Email                                        	|
 |----------------------------------	|-----------------------	|------------------------------------------------------	|
-| COGS Administrator               	| Tracey Grutz          	| churchofgoodshepherd@gmail.com                       	|
-| Adult Education                  	| Paul McClure          	| mcclure.paul@gmail.com                               	|
-| Altar Guild                      	| Matt Perez            	| mattpinva@gmail.com                                  	|
-| Children's Education & Care      	| Meredith Camilleri    	| meredith0091@gmail.com                               	|
+| COGS Administrator               	| Tracey Grutz          	| churchofgoodshepherd [at] gmail.com                       	|
+| Adult Education                  	| Paul McClure          	| mcclure.paul [at] gmail.com                               	|
+| Altar Guild                      	| Matt Perez            	| mattpinva [at] gmail.com                                  	|
+| Children's Education & Care      	| Meredith Camilleri    	| meredith0091 [at] gmail.com                               	|
 | Evening Prayer                   	|                       	| https://www.facebook.com/COGSLynchburg/              	|
-| Facilities and Maintenance       	| Candice Sampson       	| csampson12@liberty.edu                               	|
-| Finance Committee                	| Josh Davies           	| jsdavies@liberty.edu                                 	|
-| Hospitality/Greeters             	| Cale & Faith Baker    	| calebaker118@gmail.com                               	|
-| Media & Web-site Management      	| Jeff Benson           	| jeffbensonis@gmail.com                               	|
-| Men’s Group                      	| Pastor Mike Kunzinger 	| bethecure@gmail.com                                  	|
-| Morning Prayer                   	| Cale Baker            	| calebaker118@gmail.com                               	|
-| Music                            	| Marci Smith           	| marcismith93@gmail.com                               	|
-| Prayer Ministry & Sunday Readers 	| Judith Benedict       	| judithbenedict@hotmail.com                           	|
-| Women's Ministries               	| Tracey Grutz          	| healthabundant@gmail.com                             	|
-| Youth Education & Care           	| Shane & Kaylee O'Neil 	| oneillshane376@gmail.com redhairblueeyes22@gmail.com 	|
+| Facilities and Maintenance       	| Candice Sampson       	| csampson12 [at] liberty.edu                               	|
+| Finance Committee                	| Josh Davies           	| jsdavies [at] liberty.edu                                 	|
+| Hospitality/Greeters             	| Cale & Faith Baker    	| calebaker118 [at] gmail.com                               	|
+| Media & Web-site Management      	| Jeff Benson           	| jeffbensonis [at] gmail.com                               	|
+| Men’s Group                      	| Pastor Mike Kunzinger 	| bethecure [at] gmail.com                                  	|
+| Morning Prayer                   	| Cale Baker            	| calebaker118 [at] gmail.com                               	|
+| Music                            	| Marci Smith           	| marcismith93 [at] gmail.com                               	|
+| Prayer Ministry & Sunday Readers 	| Judith Benedict       	| judithbenedict [at] hotmail.com                           	|
+| Women's Ministries               	| Tracey Grutz          	| healthabundant [at] gmail.com                             	|
+| Youth Education & Care           	| Shane & Kaylee O'Neil 	| oneillshane376 [at] gmail.com redhairblueeyes22 [at] gmail.com 	|
 
 Get Involved! Please [Contact Us](/contact) to learn more.
