@@ -11,7 +11,7 @@ draft: false
 | COGS Administrator               	| Tracey Grutz          	| churchofgoodshepherd [at] gmail.com                       	|
 | Adult Education                  	| Paul McClure          	| mcclure.paul [at] gmail.com                               	|
 | Altar Guild                      	| Matt Perez            	| mattpinva [at] gmail.com                                  	|
-| Children's Education & Care      	| Meredith Camilleri    	| meredith0091 [at] gmail.com                               	|
+| Children's Education & Care      	| Meredith Camilleri    	|                               	|
 | Evening Prayer                   	|                       	| https://www.facebook.com/COGSLynchburg/              	|
 | Facilities and Maintenance       	| Candice Sampson       	| csampson12 [at] liberty.edu                               	|
 | Finance Committee                	| Josh Davies           	| jsdavies [at] liberty.edu                                 	|
