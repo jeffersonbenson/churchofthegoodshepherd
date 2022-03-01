@@ -6,10 +6,9 @@ draft: false
 
 # Donate
 
-## General Fund
-To donate to the general fund of Church of the Good Shepherd, please use the link below.
+To donate to Church of the Good Shepherd, please use the link below.
 
-All donations to Church of the Good Shepherd are tax-deductible.
+All donations are tax-deductible.
 
 {{< rawhtml >}}
 <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: none; border: none;" data-church-id="4911054">Give</button>
