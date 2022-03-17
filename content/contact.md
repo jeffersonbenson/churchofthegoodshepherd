@@ -5,5 +5,5 @@ draft: false
 ---
 
 # Contact Us
-### Email: churchofgoodshepherd@gmail.com
+### Email: churchofgoodshepherd [at] gmail.com
 ### Phone (Call or Text): (434) 221-3694
