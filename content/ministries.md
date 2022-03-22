@@ -22,6 +22,6 @@ draft: false
 | Music                            	| Marci Smith           	| marcismith93 [at] gmail.com                               	|
 | Prayer Ministry & Sunday Readers 	| Judith Benedict       	| judithbenedict [at] hotmail.com                           	|
 | Women's Ministries               	| Tracey Grutz          	| healthabundant [at] gmail.com                             	|
-| Youth Education & Care           	| Shane & Kaylee O'Neil 	| oneillshane376 [at] gmail.com redhairblueeyes22 [at] gmail.com 	|
+| Youth Education & Care           	| Jeff & Miranda Benson  	| jeffbensonis [at] gmail.com mebryant2019 [at] gmail.com   	|
 
 Get Involved! Please [Contact Us](/contact) to learn more.
