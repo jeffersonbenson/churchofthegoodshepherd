@@ -12,9 +12,9 @@
 #Details for the box below the banner
 [services]
   #title = "Join Us For Worship!"
-  title = "Ash Wednesday Service"
+  title = "Join Us For Worship at our New Temporary Location!"
   #text = "We meet on Sundays at 10:30am at [1105 Main Street Lynchburg, VA 24501](https://www.openstreetmap.org/way/319629804)."
-  text = "Wednesday March 2 at 6:30 PM at [1105 Main Street Lynchburg, VA 24501](https://www.openstreetmap.org/way/319629804)"
+  text = "Sunday April 10 at 10:30 AM at [1100 Court Street Lynchburg, VA 24504](https://www.openstreetmap.org/way/992273417)"
 
 [feature_icons]
   #These feature icons look best if there's an even number of them.
