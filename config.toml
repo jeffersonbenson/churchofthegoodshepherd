@@ -88,7 +88,7 @@ unsafe = true
 #    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
 
   [params.map]
-    service = "osm" #"osm" for OpenStreetMaps, "google" for Google Maps, or "mapbox" for Mapbox, see SETUP.md
+    #service = "google" #"osm" for OpenStreetMaps, "google" for Google Maps, or "mapbox" for Mapbox, see SETUP.md
     # For Open Street Map widgets
     latitude = "37.41194"
     longitude = "-79.14201"
@@ -96,8 +96,8 @@ unsafe = true
     #longitude = "-79.14078"
     zoom = "19"
     # If you want to use google maps you'll need an API Key from Google https://developers.google.com/maps/documentation/embed/get-api-key
-    #service = "google"
-    #api_key = "XXXXXXXX"
+    service = "google"
+    api_key = "AIzaSyBBXuHFzAx7uv1q1nVKP3zjUX8h23VdBGQ"
     #language = "fr" #Optional
     #region = "FR" #Optional
 
