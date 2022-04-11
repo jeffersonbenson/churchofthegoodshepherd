@@ -12,9 +12,11 @@
 #Details for the box below the banner
 [services]
   #title = "Join Us For Worship!"
-  title = "Join Us For Worship At Our New Temporary Location!"
-  #text = "We meet on Sundays at 10:30am at [1105 Main Street Lynchburg, VA 24501](https://www.openstreetmap.org/way/319629804)."
-  text = "Sunday April 10 at 10:30 AM at [1100 Court Street Lynchburg, VA 24504](https://www.openstreetmap.org/way/992273417)"
+  title = "Join Us For Good Friday!"
+  #title = "Join Us For Worship At Our New Temporary Location!"
+  #text = "We meet on Sundays at 10:30am at [1105 Main Street Lynchburg, VA 24501](https://www.openstreetmap.org/way/319629804)"
+  text = "Friday April 15th at 6:30pm at [1105 Main Street Lynchburg, VA 24501](https://goo.gl/maps/sv24QGN1rw6cXhai8)"
+  #text = "Sunday April 10 at 10:30am at [1100 Court Street Lynchburg, VA 24504](https://www.openstreetmap.org/way/992273417)"
 
 [feature_icons]
   #These feature icons look best if there's an even number of them.
